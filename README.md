@@ -37,6 +37,6 @@ It later improves to correctly seperate the classes after training for $100$ epo
 
 ## Future Goals
 
-1. Extend the `Value` class to a tensor `Tensor` class to natively support matrix operations.
+1. Extend the `Value` class to a `Tensor` class to natively support matrix operations.
 2. Add convolutional filers and recurrent neural networks.
 3. Attempt MNIST dataset.
